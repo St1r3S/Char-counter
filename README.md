@@ -1,2 +1,3 @@
-# task_5
+# Collections framework task
 
+Simple Java app, that provides grasp on Collections framework.
