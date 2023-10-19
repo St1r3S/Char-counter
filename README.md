@@ -1,3 +1,3 @@
-# Collections framework task
+# Char counter
 
-Simple Java app, that provides grasp on Collections framework.
+Simple Java app, that provides grasp of Collections framework.
